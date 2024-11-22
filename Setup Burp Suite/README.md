@@ -1,41 +1,26 @@
-# Kali Linux Installation Via Virtual Box
+# Setup Burp Suite on Kali Linux
 
-1. Install virtual box for Windows OS. [Link Install.](https://www.virtualbox.org/wiki/Downloads)
+1. Open Burp Suite
 
-![image](https://github.com/user-attachments/assets/310270d3-395c-44f1-b311-c1a021594aa1)
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 12_57_59](https://github.com/user-attachments/assets/2e4ff74d-ce83-4f4a-8bc9-b8a79ceeac47)
 
-2. Install Kali Linux OS for VirtualBox. [Link Install.](https://www.kali.org/get-kali/#kali-virtual-machines)
+2. Setup Proxy on Browser
 
-![image](https://github.com/user-attachments/assets/9b25a5aa-a763-46bc-9317-e4a907532c1f)
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 13_02_04](https://github.com/user-attachments/assets/50029335-735e-4cbc-ab81-fb44971e7931)
 
-3. Installation software overview
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 13_03_19](https://github.com/user-attachments/assets/6a3ffa5b-10a7-43be-947b-aa9b750bedd3)
 
-![image](https://github.com/user-attachments/assets/d67e37c3-ee65-4ece-a99c-4b8f3aa51209)
+3. Type 'http://burp' on browser > install certificate
 
-4. Install VirtualBox on windows
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 13_05_38](https://github.com/user-attachments/assets/89e949f0-d354-4538-ba87-22d0a8ffe9b6)
 
-![image](https://github.com/user-attachments/assets/12f6848e-462d-4a78-a624-7bb657358b02)
+4. Open settings on browser > type certificate > view certificate > import certificate > choose certificate > ok
 
-5. Double click on kali linux os to open on virtualbox
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 13_11_21](https://github.com/user-attachments/assets/27526b07-0fdb-4e5c-8a3e-71167063a963)
 
-![image](https://github.com/user-attachments/assets/f8d997dc-5895-4c26-8303-acbece0c3043)
+6. Type random website > Traffic from browser show on burp suite
 
-![image](https://github.com/user-attachments/assets/9a04c3e9-18b7-448a-b7b8-90c4302c1ec7)
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 13_09_51](https://github.com/user-attachments/assets/ee2e259c-9a28-49a8-8fa3-aa57886c1fad)
 
-6. Right click on kali linux > click settings > Rename "Kali Linux Development Testing"
 
-![image](https://github.com/user-attachments/assets/a951a15a-a445-418f-9acf-f1151f8b2483)
 
-7. On System setup "Base Memory" and "Processors"
-
-![image](https://github.com/user-attachments/assets/d977092e-4978-4e8c-8654-96d71212e839)
-
-![image](https://github.com/user-attachments/assets/7342e904-7acb-4dc0-9f3d-f92d345f0010)
-
-8. Start Kali Linux > Type username : "kali" and password : "kali"
-
-![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 12_49_35](https://github.com/user-attachments/assets/f3a23dda-dd53-4ef1-b8ef-778da6d9c829)
-
-9. Kali Linux success to install
-
-![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 12_50_54](https://github.com/user-attachments/assets/1e967144-7ec4-4909-825c-4ded1c9823b0)
