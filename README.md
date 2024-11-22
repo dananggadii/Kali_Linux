@@ -32,3 +32,10 @@
 
 ![image](https://github.com/user-attachments/assets/7342e904-7acb-4dc0-9f3d-f92d345f0010)
 
+8. Start Kali Linux > Type username : "kali" and password : "kali"
+
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 12_49_35](https://github.com/user-attachments/assets/f3a23dda-dd53-4ef1-b8ef-778da6d9c829)
+
+9. Kali Linux success to install
+
+![kali-linux-2023 4-virtualbox-amd64  Running  - Oracle VM VirtualBox 22_11_2024 12_50_54](https://github.com/user-attachments/assets/1e967144-7ec4-4909-825c-4ded1c9823b0)
