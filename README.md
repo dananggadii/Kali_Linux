@@ -7,3 +7,28 @@
 2. Install Kali Linux OS for VirtualBox. [Link Install.](https://www.kali.org/get-kali/#kali-virtual-machines)
 
 ![image](https://github.com/user-attachments/assets/9b25a5aa-a763-46bc-9317-e4a907532c1f)
+
+3. Installation software overview
+
+![image](https://github.com/user-attachments/assets/d67e37c3-ee65-4ece-a99c-4b8f3aa51209)
+
+4. Install VirtualBox on windows
+
+![image](https://github.com/user-attachments/assets/12f6848e-462d-4a78-a624-7bb657358b02)
+
+5. Double click on kali linux os to open on virtualbox
+
+![image](https://github.com/user-attachments/assets/f8d997dc-5895-4c26-8303-acbece0c3043)
+
+![image](https://github.com/user-attachments/assets/9a04c3e9-18b7-448a-b7b8-90c4302c1ec7)
+
+6. Right click on kali linux > click settings > Rename "Kali Linux Development Testing"
+
+![image](https://github.com/user-attachments/assets/a951a15a-a445-418f-9acf-f1151f8b2483)
+
+7. On System setup "Base Memory" and "Processors"
+
+![image](https://github.com/user-attachments/assets/d977092e-4978-4e8c-8654-96d71212e839)
+
+![image](https://github.com/user-attachments/assets/7342e904-7acb-4dc0-9f3d-f92d345f0010)
+
